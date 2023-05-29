@@ -184,7 +184,8 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  They should have a few specific software packages installed (listed <a href="#setup">below</a>). For this workshop, we do *not* use OpenRefine. The only necessary software is RStudio with R 4.2 or newer - or, the preferred route for this workshop: go to <a href="https://posit.cloud">Posit Cloud</a>, sign up, log in. 
+  
 </p>
 
 {% comment %}
